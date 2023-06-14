@@ -5,8 +5,8 @@
 ## _Live Demo :_
 https://illustrious-centaur-362a7e.netlify.app
 
-## _Features :_
----
+## _Features 🥇
+
 - Login/SignUp
 - Home Page
 - Product Pages
